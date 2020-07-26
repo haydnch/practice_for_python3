@@ -1,6 +1,6 @@
 import yagmail
 
-yag_server = yagmail.SMTP(user = 'haydnch@foxmail.com', password ='aemhdqxdxccabjhh',
+yag_server = yagmail.SMTP(user = 'haydnch@foxmail.com', password ='your token',
                           host = 'smtp.qq.com')
 email_to = ['leslie12956.ch98@foxmail.com',]
 email_title = '测试报告'
